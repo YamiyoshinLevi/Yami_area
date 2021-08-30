@@ -1,0 +1,97 @@
+{
+    "siren": {
+        "sounds": [
+            {
+                "name": "themes/siren",
+                "stream": "true"
+            }
+        ]
+    },
+    "darkboss1": {
+        "sounds": [
+            {
+                "name": "themes/darkboss1",
+                "stream": "true"
+            }
+        ]
+    },
+    "night1": {
+        "sounds": [
+            {
+                "name": "themes/night1",
+                "stream": "true"
+            }
+        ]
+    },
+    "raid1": {
+        "sounds": [
+            {
+                "name": "themes/raid1",
+                "stream": "true"
+            }
+        ]
+    },
+    "raid2": {
+        "sounds": [
+            {
+                "name": "themes/raid2",
+                "stream": "true"
+            }
+        ]
+    },"raid3": {
+        "sounds": [
+            {
+                "name": "themes/raid3",
+                "stream": "true"
+            }
+        ]
+    },
+    "tsunami": {
+        "sounds": [
+            {
+                "name": "themes/tsunami",
+                "stream": "true"
+            }
+        ]
+    },
+    "alarm1": {
+        "sounds": [
+            {
+                "name": "alarm/alarm1",
+                "stream": "true"
+            }
+        ]
+    },
+    "basealarm": {
+        "sounds": [
+            {
+                "name": "alarm/basealarm",
+                "stream": "true"
+            }
+        ]
+    },
+    "core_alarm": {
+        "sounds": [
+            {
+                "name": "alarm/core_alarm",
+                "stream": "true"
+            }
+        ]
+    },
+    "darkbase": {
+        "sounds": [
+            {
+                "name": "alarm/darkbase",
+                "stream": "true"
+            }
+        ]
+    },
+    "meltdown": {
+        "sounds": [
+            {
+                "name": "alarm/meltdown_alarm",
+                "stream": "true"
+            }
+        ]
+    }
+}
