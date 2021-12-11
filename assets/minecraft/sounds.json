@@ -23,6 +23,14 @@
             }
         ]
     },
+    "night2": {
+        "sounds": [
+            {
+                "name": "themes/night2",
+                "stream": "true"
+            }
+        ]
+    },
     "raid1": {
         "sounds": [
             {
