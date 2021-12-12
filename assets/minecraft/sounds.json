@@ -23,6 +23,14 @@
             }
         ]
     },
+    "night2": {
+        "sounds": [
+            {
+                "name": "themes/night2",
+                "stream": "true"
+            }
+        ]
+    },
     "raid1": {
         "sounds": [
             {
@@ -90,6 +98,70 @@
         "sounds": [
             {
                 "name": "alarm/meltdown_alarm",
+                "stream": "true"
+            }
+        ]
+    },
+    "warehouse.blackout_0": {
+        "sounds": [
+            {
+                "name": "warehouse/blackout_0",
+                "stream": "true"
+            }
+        ]
+    },
+    "warehouse.blackout_1": {
+        "sounds": [
+            {
+                "name": "warehouse/blackout_1",
+                "stream": "true"
+            }
+        ]
+    },
+    "warehouse.doors_0": {
+        "sounds": [
+            {
+                "name": "warehouse/doors_0",
+                "stream": "true"
+            }
+        ]
+    },
+    "warehouse.doors_1": {
+        "sounds": [
+            {
+                "name": "warehouse/doors_1",
+                "stream": "true"
+            }
+        ]
+    },
+    "warehouse.light_0": {
+        "sounds": [
+            {
+                "name": "warehouse/light_0",
+                "stream": "true"
+            }
+        ]
+    },
+    "warehouse.light_1": {
+        "sounds": [
+            {
+                "name": "warehouse/light_1",
+                "stream": "true"
+            }
+        ]
+    },
+    "warehouse.light_2": {
+        "sounds": [
+            {
+                "name": "warehouse/light_2",
+                "stream": "true"
+            }
+        ]
+    },
+    "warehouse.light_3": {
+        "sounds": [
+            {
+                "name": "warehouse/light_3",
                 "stream": "true"
             }
         ]
