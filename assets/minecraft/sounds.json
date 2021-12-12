@@ -165,5 +165,21 @@
                 "stream": "true"
             }
         ]
+    },
+    "warehouse.coolant_0": {
+        "sounds": [
+            {
+                "name": "warehouse/coolant_0",
+                "stream": "true"
+            }
+        ]
+    },
+    "warehouse.coolant_1": {
+        "sounds": [
+            {
+                "name": "warehouse/coolant_1",
+                "stream": "true"
+            }
+        ]
     }
 }
